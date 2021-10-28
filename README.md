@@ -41,7 +41,7 @@ Portfolio: mobile version
 
 ## Authors
 
-👤 Vincent Abuya
+👤 Vincent Abuya Obunga
 
 - GitHub: [@githubhandle](https://github.com/vabuyia)
   -Twitter: @abuyiag
